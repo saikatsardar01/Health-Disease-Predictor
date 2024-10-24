@@ -8,9 +8,15 @@ Our Python-based machine learning module allows users to input their symptoms, a
  ```bash
  pip install pandas
  ``` 
--> ```pip install numpy``` ,
--> ``` pip install tkinter ``` ,
--> ```pip install scikit-learn```
+```bash
+pip install numpy
+``` 
+```bash 
+pip install tkinter
+```
+```bash
+pip install scikit-learn
+```
 5) Now Run The Project
 
 # How To Use the software 
