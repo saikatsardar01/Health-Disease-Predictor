@@ -10,3 +10,8 @@ Our Python-based machine learning module allows users to input their symptoms, a
 -> ``` pip install tkinter ``` ,
 -> ```pip install scikit-learn```
 4) Now Run The Project
+
+# How To Use the software 
+
+Follow the YouTube Video to use the software :
+https://youtu.be/POJVQlhzsnE
