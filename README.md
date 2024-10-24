@@ -5,11 +5,13 @@ Our Python-based machine learning module allows users to input their symptoms, a
 1) Go to terminal ( VS Code / Or any other IDE )
 2) Type ``` git clone https://github.com/saikatsardar01/Health-Disease-Predictor.git```
 3) Now install all python libraries-
--> ```pip install pandas``` ,
+ ```bash
+ pip install pandas
+ ``` 
 -> ```pip install numpy``` ,
 -> ``` pip install tkinter ``` ,
 -> ```pip install scikit-learn```
-4) Now Run The Project
+5) Now Run The Project
 
 # How To Use the software 
 
