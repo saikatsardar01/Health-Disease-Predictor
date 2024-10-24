@@ -9,4 +9,4 @@
 -> ```pip install numpy``` ,
 -> ``` pip install tkinter ``` ,
 -> ```pip install scikit-learn```
-Now Run The Project
+4) Now Run The Project
