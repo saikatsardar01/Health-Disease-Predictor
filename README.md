@@ -1,5 +1,5 @@
 # Health-Disease-Predictor
-
+Our Python-based machine learning module allows users to input their symptoms, and it predicts potential diseases with remarkable accuracy. By utilizing a robust symptom database and advanced algorithms, it provides timely and personalized health insights.
 # How to run test / Run the software
 
 1) Go to terminal ( VS Code / Or any other IDE )
